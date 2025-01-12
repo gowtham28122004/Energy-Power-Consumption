@@ -63,4 +63,4 @@ Performed calculations to derive insights, such as:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name/energy-trend-analysis.git
+   git clone https://github.com/gowtham28122004/Energy-Power-Consumption.git
